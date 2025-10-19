@@ -1,0 +1,7 @@
+I am a IT Professional with 12 years  of experience in Software Development. 
+My expertise includes [key areas of expertise].
+
+Currently, I'm focused on Machine Learning, Deep Learning, Generative AI, Agentic AI, NLP, Python, TensorFlow, PyTorch,
+Data Analysis, NumPy, Panada.
+
+My background includes Java ,AIML,BigData stack.
